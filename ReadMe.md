@@ -28,9 +28,9 @@ npm install webpack webpack-cli --save-dev
 
 3、现在我们将在项目根目录创建以下目录结构、文件和内容：
 * src目录结构：
+
 ![src](https://i.niupic.com/images/2020/10/30/8VZu.png
 )
-[源码查看]()
 
 * 项目根目录下创建index.html文件
 ```js
@@ -155,6 +155,7 @@ module.exports = {
 ```
 
 运行npm run build生成dist目录：
+
 ![打包dist目录](https://i.niupic.com/images/2020/10/30/8W0h.png)
 
 
